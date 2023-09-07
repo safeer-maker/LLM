@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "html_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "comments": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "number": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "comments_data": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
